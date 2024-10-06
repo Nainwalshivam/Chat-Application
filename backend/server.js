@@ -33,11 +33,7 @@ import messageRoute from "./routes/message.routes.js"
 import userRoute from "./routes/user.routes.js"
 
 app.use("/api/auth", authRoutes)
-// app.use("/api/messages", messageRoute)
-app.use("/api/messages", (req, res) => {
-    console.log(req.body);  // Log incoming request data
-    // Process the request
-});
+app.use("/api/messages", messageRoute)
 app.use("/api/users", userRoute)
 
 server.listen(PORT, () => {
