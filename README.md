@@ -26,7 +26,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ![image](https://github.com/user-attachments/assets/97edae37-2ae7-4687-a49f-90d931f366cb)
 
 
-### Real Time Chatting with Typing indicators
+### Real Time Chatting 
 ![image](https://github.com/user-attachments/assets/5ad9ee25-7d3f-4689-bbc4-234823156f1c)
 ![image](https://github.com/user-attachments/assets/706c505d-751f-4a21-be89-8cd6af8ef308)
 
